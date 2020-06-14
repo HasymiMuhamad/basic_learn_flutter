@@ -1,0 +1,4 @@
+#Sun Jun 14 21:58:35 WIB 2020
+base.0=/Volumes/Data/Flutter/basic_flutter_learn/basic_flutter_learn/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
